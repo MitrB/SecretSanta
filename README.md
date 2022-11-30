@@ -1,6 +1,6 @@
 # SecretSanta
 Create secret santa pairs
-Idea by [JinfuC]<https://github.com/JinfuC>
+Idea by [JinfuC](https://github.com/JinfuC)
 
 ## Usage
 You should provide a file with all the names of the participants on a different line (look at the names.txt files as reference). 
